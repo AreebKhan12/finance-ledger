@@ -1,0 +1,25 @@
+# Environment secrets & API keys
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Java & Build tools (Maven / Gradle)
+target/
+*.class
+.mvn/
+build/
+.gradle/
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
